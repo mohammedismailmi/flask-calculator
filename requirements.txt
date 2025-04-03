@@ -1,0 +1,7 @@
+Flask==3.0.0
+pytest==8.0.0
+pylint==3.0.3
+gunicorn==21.2.0
+docker==7.0.0
+requests==2.31.0
+flask-testing==0.8.1
